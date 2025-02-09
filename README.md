@@ -5,4 +5,8 @@ Um projeto Blog utilizando o framework Django da linguagem Python. Além disso, 
 
 Backend: Python
 
-Database: MySQL Server Ferramenta Visual Studio Code (VSCode) Postman Git Docker
+Database: MySQL Server 
+Ferramentas: 
+            Visual Studio Code (VSCode)
+            Postman  
+            Docker
